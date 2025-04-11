@@ -17,7 +17,7 @@ A maze navigation game implemented in C, where you navigate through a maze while
 
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/AyushHL/Snake-Chaser-Game.git  
+   git clone https://github.com/YourUsername/Snake-Chaser-Game.git  
    ```  
 
 2. Compile the code:  
