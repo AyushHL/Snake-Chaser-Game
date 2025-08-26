@@ -59,7 +59,7 @@ Location pop(LinkedList* list)
     }
     else
     {
-        value.row = -1; // You can use a sentinel value to indicate an empty list
+        value.row = -1; // We can use a sentinel value to indicate an empty list
         value.col = -1;
     }
     return value;
@@ -310,4 +310,5 @@ int main(int argc, char* argv[])
     }
 
     return 0;
+
 }
